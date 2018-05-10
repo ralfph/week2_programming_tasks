@@ -1,0 +1,4 @@
+1.Napisz funkcje która zwróci długość najdłuższego spójnego podciągu w kolumnach macierzy kwadratowej , którego każdy element(ciągu) jest elementem ciągu Fibonacciego. Mając do dyspozycji macierz kwadratową zrealizuj poszukiwanie tego ciągu po jej kolumnach ( trzeba znaleźć najdłuższy taki podciąg , szukając go w kolumnach macierzy ). 
+// Poszukiwane odbywa się dla całej macierzy nie dla każdej kolumny
+
+2.Napisz funkcję rekurencyjną do zamiany liczby na postać binarną i wypisania jej na ekran.
